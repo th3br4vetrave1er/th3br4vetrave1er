@@ -1,5 +1,5 @@
 ![](https://i.pinimg.com/originals/3a/05/fa/3a05faad64800e1cce421f4c013b1bc4.gif)
-<h2>💀🤺dumpster-tier-2-72 About Me:</h2>
+<h2>💀🤺About Me:</h2>
 <p>Hello! I’m Dan, or as I like to call myself, a brave traveler. I've always had a passion for creating things with my hands, but since blacksmithing didn’t quite work out, I’ve turned to the art of programming. I have a deep love for fantasy, games, and music, which fuels my creativity and keeps me motivated on this coding journey.<br>
 In the end, I’m just as much a brave traveler as you are, my visitor. So, come on in, take a seat—there’s always room for you here!</p>
 <h3>I'm currently working on 🛠️</h3>
