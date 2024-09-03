@@ -39,6 +39,7 @@ I'm your guy! Whether it's coding challenges, random tech stuff, or just nerdy c
 <h3>Fun fact 🎬</h3>
 <p>As I’m learning to write cleaner code, did you know that the movie Die Hard was originally a sequel to Commando?<br>
 Just like how I’m trying to turn my coding journey into an action-packed adventure — minus the explosions, of course. (of course 😈)</p>
+![](https://media.tenor.com/ITGI9UX3H0YAAAAM/cacticaine.gif)
 
 
 
