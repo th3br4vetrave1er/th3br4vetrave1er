@@ -7,8 +7,8 @@ In the end, I’m just as much a brave traveler as you are, my visitor. So, come
 Right now, I'm working on:<br>
 <strong>Python Projects:</strong> From building automation scripts to exploring data analysis, Python is my go-to language as I sharpen my skills.<br>
 I'm constantly pushing the limits of what I can create, learning new libraries, and refining my code.<br>
-<strong>JavaScript & Go on the Horizon:</strong> As I progress through my courses at boot.dev, I'll be expanding my toolkit with JavaScript and Go projects.<br>
-The adventure is just beginning, and I'm excited to add more languages to my arsenal.</p>
+<strong>The adventure is just beginning, and I'm excited to add more languages to my arsenal.</p>
+
 
 <h3>I'm looking to collaborate with 🤝</h3>
 <p>If you’ve somehow stumbled upon this page and are looking to team up on beginner-friendly projects, you’re in the right place!<br>
@@ -23,17 +23,11 @@ If you happen to spot something in my projects that could use improvement, I’m
 Constructive criticism is always welcome—after all, that’s how we grow.</p>
 
 <h3>I'm currently learning 📚</h3>
-<p>I’m currently diving deep into the Back-end Developer Career Path at boot.dev.<br>
-This course is guiding me through the essential skills needed to thrive in the back-end world.<br>
-Here's what I'm working on:<br>
-<strong>Python, JavaScript, and Go:</strong> Building a strong foundation in these languages, mastering their core concepts, and learning to apply them in real-world scenarios.<br>
-<strong>Data Structures & Algorithms:</strong> Understanding the backbone of efficient coding and problem-solving strategies.<br>
-<strong>APIs & Databases:</strong> Learning how to create, manage, and optimize back-end systems that power modern applications.<br>
-<strong>Real-World Projects:</strong> Applying everything I learn through hands-on projects that simulate real-life challenges.<br>
+<p>I’m currently diving deep into the Back-end Developer Career Path.<br>
 It’s a lot to take in, but I'm determined to keep pushing forward, after all, who am I to fail?</p>
 
 <h3>Ask me about 🤔</h3>
-<p>Got a burning question about Python, JavaScript, Go, or why coffee is the best debugging tool?<br>
+<p>Got a burning question? Wanna know why coffee is the best debugging tool? Just ask!<br>
 I'm your guy! Whether it's coding challenges, random tech stuff, or just nerdy chatter, feel free to reach out. I may not have all the answers, but I’ll give it my best shot—plus, I love a good excuse to dive into something new.</p>
 
 <h3>Fun fact 🎬</h3>
@@ -44,7 +38,7 @@ Just like how I’m trying to turn my coding journey into an action-packed adven
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bravetrave1er/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onetruedan/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/bravetrave13r/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/bravetrave1er) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onetruedan/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/bravetrave13r/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/bravetrave1er)  
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
